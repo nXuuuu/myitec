@@ -1,0 +1,25 @@
+h1{
+    font-family: Arial;
+
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    line-height: 45px;    
+}
+a{
+    text-decoration: dotted;
+    font-family: "Time New Roman";
+    font-size: 30px;
+    color:orangered;
+    
+}
+h4{
+    font-family: "Noto Serif Khmer", serif;
+    font-optical-sizing:auto;
+    font-weight:400;
+    font-style: normal;
+    font-size: 40px;
+    text-decoration:hotpink;
+  }
+  
